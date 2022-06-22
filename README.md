@@ -4,6 +4,7 @@
 
 - Please read Ch02 and Ch03 of [GoPL book](https://drive.google.com/file/d/1kvsEfCuOYecBrfy12tTI1kDDbC4e4AVy/view?usp=sharing) and run its code. Do not forget to commit the initial and final work.
 
-- <br/>
-initial chapter created
+---
+- initial chapter created
+- ch1 - code examples in the class written from scratch
 
