@@ -7,4 +7,5 @@
 ---
 - initial chapter created
 - ch1 - code examples in the class written from scratch
+- ch2 - second chapter exercises from book completed
 
